@@ -20,3 +20,10 @@ A project developed in March 2018, for the creation of an invention for self-wat
 
 We tried to reach a crowfunding campain but we fail,you can see more details of the proyect here :
 https://www.kickstarter.com/projects/1495756473/autogarden-the-automatic-garden-system
+
+
+<h3> Videos of the proccess </h3>
+
+https://www.youtube.com/embed/82ugdwdCTOQ
+
+https://www.youtube.com/embed/g61Vv4ZC9Bo
